@@ -14,7 +14,7 @@ package com.designpattern.examples.creational.factory;
  * 
  * To achieve this, we rely on a factory which provides us with the objects,
  * hiding the actual implementation details. The created objects are accessed
- * using a common interface. test
+ * using a common interface.
  * 
  * @author Monika.Yadav
  *
