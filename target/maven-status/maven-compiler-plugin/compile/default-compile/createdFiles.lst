@@ -1,0 +1,8 @@
+com\designpattern\examples\App.class
+com\designpattern\examples\singleton\SingletonClass.class
+com\designpattern\examples\singleton\SingletonPattern.class
+com\designpattern\examples\observer\IObservable.class
+com\designpattern\examples\observer\Observable.class
+com\designpattern\examples\observer\ObsereverPattern.class
+com\designpattern\examples\observer\Observer.class
+com\designpattern\examples\observer\IObserver.class
