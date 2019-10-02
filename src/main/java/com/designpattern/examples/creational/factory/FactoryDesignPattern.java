@@ -4,9 +4,9 @@ package com.designpattern.examples.creational.factory;
  * The Factory Design Pattern or Factory Method Design Pattern is one of the
  * most used design patterns in Java.
  * 
- * According to GoF, this pattern “defines an interface for creating an object,
+ * According to GoF, this pattern "defines an interface for creating an object,
  * but let subclasses decide which class to instantiate. The Factory method lets
- * a class defer instantiation to subclasses”.
+ * a class defer instantiation to subclasses".
  * 
  * This pattern delegates the responsibility of initializing a class from the
  * client to a particular factory class by creating a type of virtual
